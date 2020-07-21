@@ -1,3 +1,5 @@
+*This repository contains my added notes for this book.*
+
 # PyTorch-Computer-Vision-Cookbook
 
 <a href="https://www.packtpub.com/data/pytorch-computer-vision-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781838644833"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838644833-original.png" alt="PyTorch Computer Vision Cookbook" height="256px" align="right"></a>
